@@ -8,7 +8,7 @@
     "Upper B",
     "Lower B"
   ],
-  "rotation_index": 0,
+  "rotation_index": 2,
   "training_today": true,
   "today_date": "2026-04-27",
   "sent_today": {
@@ -20,10 +20,10 @@
     "hydration_12": false,
     "hydration_16": false
   },
-  "last_update_id": 284006161,
-  "pending_action": "weight",
-  "streak": 0,
-  "last_done_date": null,
+  "last_update_id": 284006164,
+  "pending_action": null,
+  "streak": 1,
+  "last_done_date": "2026-04-27",
   "weight_log": [],
   "sets_log": []
 }
