@@ -1,0 +1,29 @@
+{
+  "tz": "Europe/Riga",
+  "block_start": "2026-04-27",
+  "current_week": 1,
+  "rotation": [
+    "Upper A",
+    "Lower A",
+    "Upper B",
+    "Lower B"
+  ],
+  "rotation_index": 0,
+  "training_today": true,
+  "today_date": "2026-04-27",
+  "sent_today": {
+    "morning": false,
+    "pre_workout": false,
+    "post_workout": false,
+    "bedtime": false,
+    "weekly_checkin": false,
+    "hydration_12": false,
+    "hydration_16": false
+  },
+  "last_update_id": 284006161,
+  "pending_action": "weight",
+  "streak": 0,
+  "last_done_date": null,
+  "weight_log": [],
+  "sets_log": []
+}
